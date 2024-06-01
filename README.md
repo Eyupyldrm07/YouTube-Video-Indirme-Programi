@@ -1,4 +1,4 @@
-# YouTube-Video-ndirme-Program-
+# YouTube-Video-indirme-Programı-
 YouTube Video İndirme Programı
 Bu program, YouTube videolarını bilgisayarınıza indirmenizi sağlar. Bu projede PyTube kütüphanesi kullanılmıştır.
 
