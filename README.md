@@ -45,9 +45,10 @@ Video, projenin bulunduğu klasöre indirilecektir. İndirme işlemi tamamlandı
 Hata Ayıklama
 PyTube Hataları: Eğer PyTube kütüphanesi ile ilgili bir hata alırsanız, kütüphaneyi güncellemeyi deneyin:
 
-bash
-Kodu kopyala
+
 pip install --upgrade pytube
+
+
 Bağlantı Hataları: İnternet bağlantınızı kontrol edin ve URL'nin geçerli bir YouTube URL'si olduğundan emin olun.
 
 Katkıda Bulunma
